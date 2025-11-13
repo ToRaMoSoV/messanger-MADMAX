@@ -137,9 +137,13 @@ Client — подключается к IP и порту хоста
 Модуль	Назначение
 
 socket_module/net.py	Сетевой слой, обмен ключами, ChaCha20-шифрование
+
 ui/main_window.py	Графический интерфейс на PyQt6
+
 db_module/orm.py	Работа с базой SQLite
+
 db_module/edb.py	Шифрование / расшифровка базы данных
+
 main.py	Точка входа в приложение
 
 
